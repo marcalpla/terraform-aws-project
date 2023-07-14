@@ -1,0 +1,1 @@
+../../../../services/ecs_cluster_fargate_example.tf
